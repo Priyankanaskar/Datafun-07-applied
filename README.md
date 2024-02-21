@@ -1,11 +1,13 @@
-# 44608 - project 7 Predictive Analytics 
+# project 7 Predictive Analytics 
 
 # Datafun-07-applied
 
 **overview**
 
 *Project Purpose*
-To implement the guided projects in 10.16 and 15.4 of textbook: Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and the Cloud.
+To implement the guided projects in 10.16 and 15.4 of textbook:
+**Intro to Python for Computer Science and Data Science:** Learning to Program with AI, Big Data and the Cloud.
+
 Our Project 7 is a guided project on machine learning. At a high-level, supervised learning has been employed also simple linear regression, to train a model and use the resulting model (a "best-fit" straight line) to make predictions. .
 
 # Objective
@@ -17,9 +19,9 @@ Our Project 7 is a guided project on machine learning. At a high-level, supervis
 
 # Environment setup
 
- Create repo in github name: Datafun-07-applied
+ Create new repository in github name: Datafun-07-applied
 
- # clone rep to local with git
+ # Clone repository to local with git
 
  `git clone https://github.com/Priyankanaskar/Datafun-07-applied`
 
@@ -44,10 +46,15 @@ Our Project 7 is a guided project on machine learning. At a high-level, supervis
   
 # Install dependencies into your .venv and freeze into your requirements.txt.
 `pip install pandas`
+
 `pip install pyarrow`
+
 `pip install scipy`
+
 `pip install seaborn`
+
 `pip install matplotlib`
+
 `pip install scikit-learn`
 
 `pip freeze > requirements.txt`
@@ -75,14 +82,23 @@ Our Project 7 is a guided project on machine learning. At a high-level, supervis
 # Import dependencies
 
 `import matplotlib`
+
 `from matplotlib import pyplot as plt`
+
 `import pandas`
+
 `import pyarrow`
+
 `import scipy`
+
 `from scipy import stats`
+
 `import seaborn as sns`
+
 `import sklearn`
+
 `from sklearn.model_selection import train_test_split`
+
 `import numpy as np`
 
 # Project Analysis
@@ -111,18 +127,21 @@ Our Project 7 is a guided project on machine learning. At a high-level, supervis
 * 5 - Build the Model.
 * 6 - Predict.
 * 7 - Visualizations.
+* Git add / commit / push changes to GitHub.
 
 # Part-3. Predict Avg High Temp in NYC in January 
 
-* Section 1 - Build the Mode.
-* Section 2 - Test the Model.
-* Section 3 - Predict.
-* Section 4 - Visualization.
+* 1. Build the Mode.
+* 2. Test the Model.
+* 3. Predict.
+* 4. Visualization.
+* Git add / commit / push changes to GitHub.
 
 # Part-4. Insights 
 
-* Complete section per Project 7 requirements.
-* Publish insights.
+* 1. Complete section per Project 7 requirements.
+* 2. Publish insights.
+* Git add / commit / push changes to GitHub.
 
 # Optional Bonus Project
 
@@ -134,6 +153,7 @@ Our Project 7 is a guided project on machine learning. At a high-level, supervis
 * 2. Training and testing the data.
 * 3. Visualizing the data.
 * 4. Choosing the best model from the 4 listed.
+* Git add / commit / push changes to GitHub.
 
 # Contributing:
 
